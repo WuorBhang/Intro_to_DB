@@ -1,5 +1,6 @@
 # Define the SQL script to create the tables
-task_2_sql_script =  USE alx_book_store;
+
+USE alx_book_store;
 
 #Create Authors table
 CREATE TABLE IF NOT EXISTS Authors (
