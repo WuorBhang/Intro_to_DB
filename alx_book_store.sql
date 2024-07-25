@@ -1,6 +1,10 @@
 #Create database
 CREATE DATABASE alx_book_store;
 
+#Use database
+
+USE alx_book_store;
+
 #Create Books table
 CREATE TABLE Books (
     book_id INT AUTO_INCREMENT PRIMARY KEY,
